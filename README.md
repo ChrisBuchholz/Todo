@@ -2,7 +2,7 @@
 This repository (and Android app) was solely created to try out the new support for RxJava in Realm.
 
 ## About
-The app shows a todo list. Remember that you shouldn't use this app though, as it's just a sample app.
+The app shows a todo list. Remember that you shouldn't use this app. It's just a sample app.
 
 ## Libraries used
 * AppCompat, CardView and RecyclerView
