@@ -19,5 +19,3 @@ The app shows a todo list. Remember that you shouldn't use this app. It's just a
 * Delete todo feature
 * Edit todo feature
 * Rewrite/refactor from Java to Kotlin
-
-Basically just CRUD stuff, except the part about rewriting it to Kotlin.
