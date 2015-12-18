@@ -11,18 +11,14 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import pla.todo.R;
-import pla.todo.TodoAdapter;
 import pla.todo.model.Todo;
 import pla.todo.presenter.MainPresenter;
-import timber.log.Timber;
 
 public class MainActivity extends AppCompatActivity implements MainView {
 
